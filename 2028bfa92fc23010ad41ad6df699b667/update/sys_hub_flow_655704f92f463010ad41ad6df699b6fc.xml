@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to practice using a Data Stream Action</description>
+        <internal_name>glaciers_latlong</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Glaciers LatLong</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>vhingwala</sys_created_by>
+        <sys_created_on>2021-08-18 20:38:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>655704f92f463010ad41ad6df699b6fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Glaciers LatLong</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="World Glaciers Spoke" source="x_672108_world_gla">2028bfa92fc23010ad41ad6df699b667</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">2028bfa92fc23010ad41ad6df699b667</sys_scope>
+        <sys_update_name>sys_hub_flow_655704f92f463010ad41ad6df699b6fc</sys_update_name>
+        <sys_updated_by>vhingwala</sys_updated_by>
+        <sys_updated_on>2021-08-18 20:39:48</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=655704f92f463010ad41ad6df699b6fc"/>
+    <sys_variable_value action="delete_multiple" query="document_key=655704f92f463010ad41ad6df699b6fc"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=655704f92f463010ad41ad6df699b6fc^sys_idNOT INe15704f92f463010ad41ad6df699b6fd"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>655704f92f463010ad41ad6df699b6fc</id>
+        <name>Glaciers LatLong</name>
+        <sys_created_by>vhingwala</sys_created_by>
+        <sys_created_on>2021-08-18 20:38:55</sys_created_on>
+        <sys_id>e15704f92f463010ad41ad6df699b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>vhingwala</sys_updated_by>
+        <sys_updated_on>2021-08-18 20:38:55</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
